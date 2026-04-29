@@ -45,15 +45,3 @@ This project is an interactive Excel dashboard created to analyze and visualize 
 * Category-wise comparison
 * Day-wise patterns
 * Segment-based insights
-
----
-
-## 📷 Preview
-
-(Add your dashboard screenshot here)
-
----
-
-## 🤝 Acknowledgment
-
-This project was completed as part of my learning with **WsCube Tech**.
